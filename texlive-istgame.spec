@@ -1,6 +1,6 @@
 Name:		texlive-istgame
 Version:	62946
-Release:	1
+Release:	2
 Summary:	Draw Game Trees with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/istgame
