@@ -3,7 +3,7 @@ Version:	62946
 Release:	2
 Summary:	Draw Game Trees with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/istgame
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/istgame
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/istgame.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/istgame.doc.r%{version}.tar.xz
